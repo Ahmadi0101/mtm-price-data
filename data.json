@@ -1,1 +1,22 @@
 
+{
+  "version": 1,
+  "locations": [
+    {
+      "id": 1,
+      "state": "ALABAMA (AL)",
+      "branch": "TANNER",
+      "city": "TANNER",
+      "lat": 34.7304,
+      "lng": -86.5994,
+      "ports": [
+        {
+          "name": "SAVANNAH, GA",
+          "ship": 1818,
+          "herat": 1350,
+          "total": 3168
+        }
+      ]
+    }
+  ]
+}
