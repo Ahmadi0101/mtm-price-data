@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "locations": [
     {
       "id": 1,
@@ -20,6 +20,115 @@
           "ship": 1900,
           "herat": 1350,
           "total": 3250
+        },
+        {
+          "name": "BALTIMORE, MD",
+          "ship": 1850,
+          "herat": 1350,
+          "total": 3200
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "state": "FLORIDA (FL)",
+      "branch": "JACKSONVILLE",
+      "city": "NORTH JACKSONVILLE",
+      "lat": 30.3322,
+      "lng": -81.6557,
+      "ports": [
+        {
+          "name": "SAVANNAH, GA",
+          "ship": 1668,
+          "herat": 1350,
+          "total": 3018
+        },
+        {
+          "name": "NEW YORK, NY",
+          "ship": 1800,
+          "herat": 1350,
+          "total": 3150
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "state": "TEXAS (TX)",
+      "branch": "HOUSTON",
+      "city": "HOUSTON",
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "ports": [
+        {
+          "name": "SAVANNAH, GA",
+          "ship": 2100,
+          "herat": 1350,
+          "total": 3450
+        },
+        {
+          "name": "BALTIMORE, MD",
+          "ship": 2200,
+          "herat": 1350,
+          "total": 3550
+        },
+        {
+          "name": "NEW YORK, NY",
+          "ship": 2300,
+          "herat": 1350,
+          "total": 3650
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "state": "CALIFORNIA (CA)",
+      "branch": "LOS ANGELES",
+      "city": "LOS ANGELES",
+      "lat": 34.0522,
+      "lng": -118.2437,
+      "ports": [
+        {
+          "name": "SAVANNAH, GA",
+          "ship": 2500,
+          "herat": 1350,
+          "total": 3850
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "state": "NEW JERSEY (NJ)",
+      "branch": "NEWARK",
+      "city": "NEWARK",
+      "lat": 40.7357,
+      "lng": -74.1724,
+      "ports": [
+        {
+          "name": "NEW YORK, NY",
+          "ship": 1500,
+          "herat": 1350,
+          "total": 2850
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "state": "MARYLAND (MD)",
+      "branch": "BALTIMORE",
+      "city": "BALTIMORE",
+      "lat": 39.2904,
+      "lng": -76.6122,
+      "ports": [
+        {
+          "name": "BALTIMORE, MD",
+          "ship": 1750,
+          "herat": 1350,
+          "total": 3100
         }
       ]
     }
