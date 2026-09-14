@@ -1,22 +1,801 @@
 {
-  "version": 1,
+  "version": 3,
   "locations": [
     {
       "id": 1,
-      "state": "Connecticut (CT)",
-      "branch": "CT - HARTFORD SPRINGFIELD",
-      "city": "East Granby",
+      "state": "ALABAMA (AL)",
+      "branch": "TANNER",
+      "city": "TANNER",
       "source": "COPART",
-      "lat": 41.94396,
-      "lng": 72.70064,
+      "lat": 34.6059,
+      "lng": -87.0883,
       "ports": [
         {
-          "name": "SAVANNAH, GA",
-          "ship": 1830,
-          "lat": 32.076176,
-          "lng": -81.088371,
-          "herat": 1200,
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "state": "ALABAMA (AL)",
+      "branch": "MOBILE",
+      "city": "EIGHT MILES",
+      "source": "COPART",
+      "lat": 30.7707,
+      "lng": -88.1120,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "state": "ALABAMA (AL)",
+      "branch": "HUNTSVILLE",
+      "city": "HUNTSVILLE",
+      "source": "COPART",
+      "lat": 34.7796,
+      "lng": -86.6660,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1225,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "state": "ALABAMA (AL)",
+      "branch": "BIRMINGHAM",
+      "city": "BESSEMER",
+      "source": "IAAI",
+      "lat": 33.4018,
+      "lng": -86.9544,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "state": "ALABAMA (AL)",
+      "branch": "CUSSETA",
+      "city": "CUSSETA",
+      "source": "COPART",
+      "lat": 32.7871,
+      "lng": -85.3077,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1250,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3150
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "state": "ALABAMA (AL)",
+      "branch": "BIRMINGHAM",
+      "city": "HUEYTOWN",
+      "source": "COPART",
+      "lat": 33.4385,
+      "lng": -86.9668,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "state": "ALABAMA (AL)",
+      "branch": "MOBILE SOUTH",
+      "city": "THEODORE",
+      "source": "COPART",
+      "lat": 30.5474,
+      "lng": -88.1753,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "state": "ALABAMA (AL)",
+      "branch": "MONTGOMERY",
+      "city": "MONTGOMERY",
+      "source": "COPART",
+      "lat": 32.3199,
+      "lng": -86.2784,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "state": "ALABAMA (AL)",
+      "branch": "ATHENS",
+      "city": "ATHENS",
+      "source": "IAAI",
+      "lat": 34.8029,
+      "lng": -86.9717,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1225,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3125
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "state": "ALABAMA (AL)",
+      "branch": "DOTHAN",
+      "city": "HEADLAND",
+      "source": "IAAI",
+      "lat": 31.3513,
+      "lng": -85.3422,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1200,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "state": "ALABAMA (AL)",
+      "branch": "FLORENCE",
+      "city": "FLORENCE",
+      "source": "OTHER",
+      "lat": 34.7998,
+      "lng": -87.6773,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1215,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3115
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "state": "FLORIDA (FL)",
+      "branch": "FORT MYERS NORTH",
+      "city": "FORT MYERS",
+      "source": "IAAI",
+      "lat": 26.6406,
+      "lng": -81.8406,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA",
+      "city": "PALMETTO",
+      "source": "IAAI",
+      "lat": 27.5214,
+      "lng": -82.5723,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA SOUTH",
+      "city": "RIVERVIEW",
+      "source": "COPART",
+      "lat": 27.8006,
+      "lng": -82.3020,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "state": "FLORIDA (FL)",
+      "branch": "ORLANDO NORTH",
+      "city": "SANFORD",
+      "source": "IAAI",
+      "lat": 28.8005,
+      "lng": -81.2692,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1130,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
           "total": 3030
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "state": "FLORIDA (FL)",
+      "branch": "FORT PIERCE",
+      "city": "FORT PIERCE",
+      "source": "COPART",
+      "lat": 27.4467,
+      "lng": -80.3256,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "state": "FLORIDA (FL)",
+      "branch": "CLEWISTON",
+      "city": "CLEWISTON",
+      "source": "COPART",
+      "lat": 26.7542,
+      "lng": -80.9337,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA NORTH",
+      "city": "HUDSON",
+      "source": "IAAI",
+      "lat": 28.3647,
+      "lng": -82.6934,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1150,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3050
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "state": "FLORIDA (FL)",
+      "branch": "CLEARWATER",
+      "city": "CLEARWATER",
+      "source": "IAAI",
+      "lat": 27.9659,
+      "lng": -82.8001,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1125,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3025
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "state": "FLORIDA (FL)",
+      "branch": "PUNTA GORDA",
+      "city": "ARCADIA",
+      "source": "COPART",
+      "lat": 27.2159,
+      "lng": -81.8587,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1125,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3025
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "state": "FLORIDA (FL)",
+      "branch": "JACKSONVILLE NORTH",
+      "city": "JACKSONVILLE",
+      "source": "COPART",
+      "lat": 30.3322,
+      "lng": -81.6557,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1015,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 2915
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA SOUTH",
+      "city": "TAMPA SOUTH",
+      "source": "COPART",
+      "lat": 27.8006,
+      "lng": -82.3020,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI NORTH",
+      "city": "MIAMI",
+      "source": "COPART",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI NORTH",
+      "city": "SOUTHWEST RANCHES",
+      "source": "IAAI",
+      "lat": 26.0587,
+      "lng": -80.3382,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA SOUTH",
+      "city": "MULBERRY",
+      "source": "COPART",
+      "lat": 27.8953,
+      "lng": -81.9734,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "state": "FLORIDA (FL)",
+      "branch": "ORLANDO SOUTH",
+      "city": "ORLANDO",
+      "source": "COPART",
+      "lat": 28.5383,
+      "lng": -81.3792,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "state": "FLORIDA (FL)",
+      "branch": "WEST PALM BEACH",
+      "city": "WEST PALM BEACH",
+      "source": "COPART",
+      "lat": 26.7153,
+      "lng": -80.0534,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "state": "FLORIDA (FL)",
+      "branch": "ORLANDO",
+      "city": "ORLANDO",
+      "source": "IAAI",
+      "lat": 28.5383,
+      "lng": -81.3792,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI CENTRAL",
+      "city": "MIAMI",
+      "source": "COPART",
+      "lat": 25.7617,
+      "lng": -80.1918,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI SOUTH",
+      "city": "HOMESTEAD",
+      "source": "COPART",
+      "lat": 25.4687,
+      "lng": -80.4776,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "state": "FLORIDA (FL)",
+      "branch": "PENSACOLA",
+      "city": "MILTON",
+      "source": "IAAI",
+      "lat": 30.6324,
+      "lng": -87.0397,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1150,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3050
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI NORTH",
+      "city": "OPA LOCKA",
+      "source": "COPART",
+      "lat": 25.9023,
+      "lng": -80.2503,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI NORTH",
+      "city": "PEMBROKE PINES",
+      "source": "IAAI",
+      "lat": 26.0070,
+      "lng": -80.2962,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "state": "FLORIDA (FL)",
+      "branch": "FORT MYERS",
+      "city": "FORT MYERS",
+      "source": "IAAI",
+      "lat": 26.6406,
+      "lng": -81.8406,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "state": "FLORIDA (FL)",
+      "branch": "MIAMI NORTH",
+      "city": "OPA LOCKA",
+      "source": "COPART",
+      "lat": 25.9023,
+      "lng": -80.2503,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1175,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3075
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "state": "FLORIDA (FL)",
+      "branch": "ST PETE",
+      "city": "CLEARWATER",
+      "source": "IAAI",
+      "lat": 27.9659,
+      "lng": -82.8001,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1125,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3025
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "state": "FLORIDA (FL)",
+      "branch": "TALLAHASSEE",
+      "city": "MIDWAY",
+      "source": "COPART",
+      "lat": 30.4955,
+      "lng": -84.4543,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "state": "FLORIDA (FL)",
+      "branch": "OCALA",
+      "city": "OCALA",
+      "source": "COPART",
+      "lat": 29.1872,
+      "lng": -82.1401,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1140,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3040
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "state": "FLORIDA (FL)",
+      "branch": "JACKSONVILLE",
+      "city": "JACKSONVILLE",
+      "source": "IAAI",
+      "lat": 30.3322,
+      "lng": -81.6557,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1015,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 2915
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "state": "FLORIDA (FL)",
+      "branch": "PUNTA GORDA",
+      "city": "ARCADIA",
+      "source": "COPART",
+      "lat": 27.2159,
+      "lng": -81.8587,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1125,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3025
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "state": "FLORIDA (FL)",
+      "branch": "ORLANDO NORTH",
+      "city": "APOPKA",
+      "source": "COPART",
+      "lat": 28.6934,
+      "lng": -81.5322,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1125,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3025
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "state": "FLORIDA (FL)",
+      "branch": "TAMPA NORTH",
+      "city": "THONOTOSASSA",
+      "source": "COPART",
+      "lat": 28.0614,
+      "lng": -82.3023,
+      "ports": [
+        {
+          "name": "GEORGIA, USA",
+          "ship": 1150,
+          "lat": 32.0762,
+          "lng": -81.0884,
+          "herat": 1900,
+          "total": 3050
         }
       ]
     }
