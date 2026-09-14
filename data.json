@@ -1,4 +1,6 @@
-[
+{
+  "version": 1,
+  "locations":[
   {
     "id": 85,
     "state": "NORTH CAROLINA (NC)",
@@ -798,3 +800,5 @@
     ]
   }
 ]
+
+}
