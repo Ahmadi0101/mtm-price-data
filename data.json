@@ -19,8 +19,8 @@
         },
         {
           "name": "NEW YORK, NY",
-          "lat": 0.7128,
-          "lng": 74.006,
+          "lat": 40.7128,
+          "lng": -74.006,
           "ship": 1900,
           "herat": 1350,
           "total": 3250
@@ -28,7 +28,7 @@
         {
           "name": "BALTIMORE, MD",
           "lat": 39.2904,
-          "lng": 76.6123,
+          "lng": -76.6123,
           "ship": 1850,
           "herat": 1350,
           "total": 3200
@@ -54,8 +54,8 @@
         },
         {
           "name": "NEW YORK, NY",
-          "lat": 0.7128,
-          "lng": 74.006,
+          "lat": 40.7128,
+          "lng": -74.006,
           "ship": 1900,
           "herat": 1350,
           "total": 3150
@@ -82,15 +82,15 @@
         {
           "name": "BALTIMORE, MD",
           "lat": 39.2904,
-          "lng": 76.6123,
+          "lng": -76.6123,
           "ship": 2200,
           "herat": 1350,
           "total": 3550
         },
         {
           "name": "NEW YORK, NY",
-          "lat": 0.7128,
-          "lng": 74.006,
+          "lat": 40.7128,
+          "lng": -74.006,
           "ship": 2300,
           "herat": 1350,
           "total": 3650
@@ -127,8 +127,8 @@
       "ports": [
         {
           "name": "NEW YORK, NY",
-          "lat": 0.7128,
-          "lng": 74.006,
+          "lat": 40.7128,
+          "lng": -74.006,
           "ship": 1500,
           "herat": 1350,
           "total": 2850
@@ -147,7 +147,7 @@
         {
           "name": "BALTIMORE, MD",
           "lat": 39.2904,
-          "lng": 76.6123,
+          "lng": -76.6123,
           "ship": 1750,
           "herat": 1350,
           "total": 3100
