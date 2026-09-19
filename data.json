@@ -1,7 +1,7 @@
 {
-  "version": 11,
+  "version": 12,
 
-  "price_usd": 64,
+  "price_usd": 64.2,
 
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
@@ -1634,8 +1634,8 @@
       "branch": "EARLINGTON",
       "city": "EARLINGTON",
       "source": "COPART",
-      "lat": 37.2745,
-      "lng": -87.5119,
+      "lat": 37.272855906375966,
+      "lng": -87.49294686441995,
       "ports": [
         {
           "name": "GEORGIA, USA",
@@ -2336,9 +2336,9 @@
       "state": "ILLINOIS (IL)",
       "branch": "LINCOLN",
       "city": "LINCOLN",
-      "source": "COPART",
-      "lat": 40.1484,
-      "lng": -89.364,
+      "source": "IAAI",
+      "lat": 40.15382500044289,
+      "lng": -89.40865133373217,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -2347,6 +2347,14 @@
           "lng": -74.1724,
           "herat": 1900,
           "total": 3405
+        },
+        {
+          "name": "MARYLAND, USA",
+          "ship": 1583,
+          "lat": 39.0458,
+          "lng": -76.6413,
+          "herat": 1900,
+          "total": 3483
         }
       ]
     },
@@ -2575,8 +2583,8 @@
       "branch": "INDIANAPOLIS SOUTH",
       "city": "INDIANAPOLIS SOUTH",
       "source": "COPART",
-      "lat": 39.6667,
-      "lng": -86.1581,
+      "lat": 39.82934811993198,
+      "lng": -86.24741056696799,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -2585,6 +2593,14 @@
           "lng": -74.1724,
           "herat": 1900,
           "total": 3405
+        },
+        {
+          "name": "MARYLAND, USA",
+          "ship": 1558,
+          "lat": 39.0458,
+          "lng": -76.6413,
+          "herat": 1900,
+          "total": 3458
         }
       ]
     },
@@ -2594,8 +2610,8 @@
       "branch": "INDIANAPOLIS SOUTH",
       "city": "CROTHERSVILLE",
       "source": "COPART",
-      "lat": 38.8117,
-      "lng": -85.8425,
+      "lat": 38.85345737755706,
+      "lng": -85.8100431644161,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -2604,6 +2620,14 @@
           "lng": -74.1724,
           "herat": 1900,
           "total": 3405
+        },
+        {
+          "name": "MARYLAND, USA",
+          "ship": 1658,
+          "lat": 39.0458,
+          "lng": -76.6413,
+          "herat": 1900,
+          "total": 3558
         }
       ]
     },
@@ -2613,8 +2637,8 @@
       "branch": "FORT WAYNE",
       "city": "FORT WAYNE",
       "source": "IAAI",
-      "lat": 41.0793,
-      "lng": -85.1394,
+      "lat": 41.053173281240824,
+      "lng": -85.08497246931533,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -2623,6 +2647,14 @@
           "lng": -74.1724,
           "herat": 1900,
           "total": 3340
+        },
+        {
+          "name": "MARYLAND, USA",
+          "ship": 1558,
+          "lat": 39.0458,
+          "lng": -76.6413,
+          "herat": 1900,
+          "total": 3458
         }
       ]
     },
@@ -2659,8 +2691,8 @@
       "branch": "SOUTH BEND",
       "city": "SOUTH BEND",
       "source": "IAAI",
-      "lat": 41.6764,
-      "lng": -86.252,
+      "lat": 41.67280152555098,
+      "lng": -86.36336822883557,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -2669,6 +2701,14 @@
           "lng": -74.1724,
           "herat": 1900,
           "total": 3340
+        },
+        {
+          "name": "MARYLAND, USA",
+          "ship": 1558,
+          "lat": 39.0458,
+          "lng": -76.6413,
+          "herat": 1900,
+          "total": 3458
         }
       ]
     },
@@ -4027,8 +4067,8 @@
       "branch": "COLUMBUS",
       "city": "COLUMBUS",
       "source": "COPART",
-      "lat": 39.89005479782038,
-      "lng": -82.94827819026553,
+      "lat": 39.89002412921648,
+      "lng": -82.94832422936024,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -5265,8 +5305,8 @@
       "branch": "PHOENIX NORTH",
       "city": "PHOENIX",
       "source": "COPART",
-      "lat": 33.4484,
-      "lng": -112.074,
+      "lat": 33.70505663881358,
+      "lng": -112.08195470000071,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -5275,6 +5315,14 @@
           "lng": -118.1937,
           "herat": 1900,
           "total": 3731
+        },
+        {
+          "name": "TEXAS, USA",
+          "ship": 1720,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3620
         }
       ]
     },
@@ -6115,25 +6163,6 @@
       ]
     },
     {
-      "id": 289,
-      "state": "COLORADO (CO)",
-      "branch": "DENVER",
-      "city": "BRIGHTON",
-      "source": "COPART",
-      "lat": 39.9853,
-      "lng": -104.8205,
-      "ports": [
-        {
-          "name": "CALIFORNIA, USA",
-          "ship": 2335,
-          "lat": 33.7701,
-          "lng": -118.1937,
-          "herat": 1900,
-          "total": 4235
-        }
-      ]
-    },
-    {
       "id": 290,
       "state": "COLORADO (CO)",
       "branch": "LITTLETON",
@@ -6191,25 +6220,6 @@
       ]
     },
     {
-      "id": 293,
-      "state": "COLORADO (CO)",
-      "branch": "COLORADO SPRINGS",
-      "city": "COLORADO SPRINGS",
-      "source": "COPART",
-      "lat": 38.8339,
-      "lng": -104.8214,
-      "ports": [
-        {
-          "name": "CALIFORNIA, USA",
-          "ship": 2420,
-          "lat": 33.7701,
-          "lng": -118.1937,
-          "herat": 1900,
-          "total": 4320
-        }
-      ]
-    },
-    {
       "id": 294,
       "state": "COLORADO (CO)",
       "branch": "DENVER EAST",
@@ -6244,44 +6254,6 @@
           "lng": -118.1937,
           "herat": 1900,
           "total": 4235
-        }
-      ]
-    },
-    {
-      "id": 296,
-      "state": "COLORADO (CO)",
-      "branch": "DENVER CENTRAL",
-      "city": "DENVER",
-      "source": "COPART",
-      "lat": 39.7392,
-      "lng": -104.9903,
-      "ports": [
-        {
-          "name": "CALIFORNIA, USA",
-          "ship": 2335,
-          "lat": 33.7701,
-          "lng": -118.1937,
-          "herat": 1900,
-          "total": 4235
-        }
-      ]
-    },
-    {
-      "id": 297,
-      "state": "COLORADO (CO)",
-      "branch": "WESTERN COLORADO",
-      "city": "DELTA",
-      "source": "COPART",
-      "lat": 38.7422,
-      "lng": -108.0689,
-      "ports": [
-        {
-          "name": "CALIFORNIA, USA",
-          "ship": 2520,
-          "lat": 33.7701,
-          "lng": -118.1937,
-          "herat": 1900,
-          "total": 4420
         }
       ]
     },
@@ -6481,8 +6453,8 @@
       "branch": "ALBUQUERQUE",
       "city": "ALBUQUERQUE",
       "source": "COPART",
-      "lat": 35.0844,
-      "lng": -106.6504,
+      "lat": 34.98508786060415,
+      "lng": -106.65628888650676,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6491,6 +6463,14 @@
           "lng": -118.1937,
           "herat": 1900,
           "total": 4220
+        },
+        {
+          "name": "TEXAS, USA",
+          "ship": 1520,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3420
         }
       ]
     },
@@ -6974,28 +6954,9 @@
       "state": "ARIZONA (AZ)",
       "branch": "PHOENIX",
       "city": "PHOENIX",
-      "source": "COPART",
-      "lat": 33.4484,
-      "lng": -112.074,
-      "ports": [
-        {
-          "name": "TEXAS, USA",
-          "ship": 1720,
-          "lat": 29.7604,
-          "lng": -95.3698,
-          "herat": 1900,
-          "total": 3620
-        }
-      ]
-    },
-    {
-      "id": 335,
-      "state": "ARIZONA (AZ)",
-      "branch": "PHOENIX NORTH",
-      "city": "PHOENIX",
-      "source": "COPART",
-      "lat": 33.4484,
-      "lng": -112.074,
+      "source": "IAAI",
+      "lat": 33.405745290887175,
+      "lng": -112.10740322883507,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7013,8 +6974,8 @@
       "branch": "PHOENIX",
       "city": "PHOENIX",
       "source": "COPART",
-      "lat": 33.4484,
-      "lng": -112.074,
+      "lat": 33.44165635264987,
+      "lng": -112.16886720000001,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7032,8 +6993,8 @@
       "branch": "LITTLE ROCK",
       "city": "CONWAY",
       "source": "COPART",
-      "lat": 35.0887,
-      "lng": -92.4421,
+      "lat": 35.08274316947841,
+      "lng": -92.28911168221046,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7051,8 +7012,8 @@
       "branch": "FAYETTEVILLE",
       "city": "PRAIRIE GROVE",
       "source": "COPART",
-      "lat": 35.9754,
-      "lng": -94.3177,
+      "lat": 35.96837196658263,
+      "lng": -94.34906958220924,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7069,9 +7030,9 @@
       "state": "ARKANSAS (AR)",
       "branch": "FAYETTEVILLE",
       "city": "LINCOLN",
-      "source": "COPART",
-      "lat": 35.9495,
-      "lng": -94.4233,
+      "source": "IAAI",
+      "lat": 35.952667855056774,
+      "lng": -94.37903283557984,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7088,9 +7049,9 @@
       "state": "ARKANSAS (AR)",
       "branch": "LITTLE ROCK",
       "city": "SCOTT",
-      "source": "COPART",
-      "lat": 34.6851,
-      "lng": -92.0957,
+      "source": "IAAI",
+      "lat": 34.79259754898627,
+      "lng": -92.06260350916213,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7107,9 +7068,9 @@
       "state": "COLORADO (CO)",
       "branch": "DENVER EAST",
       "city": "COMMERCE CITY",
-      "source": "COPART",
-      "lat": 39.8083,
-      "lng": -104.9339,
+      "source": "IAAI",
+      "lat": 39.85037591238116,
+      "lng": -104.91630936137312,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7127,8 +7088,8 @@
       "branch": "DENVER CENTRAL",
       "city": "DENVER",
       "source": "COPART",
-      "lat": 39.7392,
-      "lng": -104.9903,
+      "lat": 39.81378122911737,
+      "lng": -104.97270262883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7137,6 +7098,14 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3470
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2335,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4235
         }
       ]
     },
@@ -7146,8 +7115,8 @@
       "branch": "COLORADO SPRINGS",
       "city": "COLORADO SPRINGS",
       "source": "COPART",
-      "lat": 38.8339,
-      "lng": -104.8214,
+      "lat": 38.88701170234193,
+      "lng": -104.8154103177929,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7156,6 +7125,14 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3470
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2420,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4320
         }
       ]
     },
@@ -7165,8 +7142,8 @@
       "branch": "DENVER",
       "city": "BRIGHTON",
       "source": "COPART",
-      "lat": 39.9853,
-      "lng": -104.8205,
+      "lat": 40.01925822467117,
+      "lng": -104.81142521778858,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7175,6 +7152,14 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3470
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2335,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4235
         }
       ]
     },
@@ -7184,8 +7169,8 @@
       "branch": "DENVER SOUTH",
       "city": "LITTLETON",
       "source": "COPART",
-      "lat": 39.6133,
-      "lng": -105.0166,
+      "lat": 39.55818388490723,
+      "lng": -105.04244324232884,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7203,8 +7188,8 @@
       "branch": "WESTERN COLORADO",
       "city": "DELTA",
       "source": "COPART",
-      "lat": 38.7422,
-      "lng": -108.0689,
+      "lat": 39.55825833015889,
+      "lng": -105.04244324232884,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7213,6 +7198,14 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3745
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2520,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4420
         }
       ]
     },
@@ -7222,8 +7215,8 @@
       "branch": "KANSAS CITY",
       "city": "KANSAS CITY",
       "source": "COPART",
-      "lat": 39.1142,
-      "lng": -94.6275,
+      "lat": 39.059122654511924,
+      "lng": -94.77583711904143,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7240,9 +7233,9 @@
       "state": "KANSAS (KS)",
       "branch": "WICHITA",
       "city": "PARK CITY",
-      "source": "COPART",
-      "lat": 37.8,
-      "lng": -97.3184,
+      "source": "IAAI",
+      "lat": 37.799026061222506,
+      "lng": -97.33665012883512,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7260,8 +7253,8 @@
       "branch": "WICHITA",
       "city": "WICHITA",
       "source": "COPART",
-      "lat": 37.6872,
-      "lng": -97.3301,
+      "lat": 37.61221759790086,
+      "lng": -97.30678092883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7278,9 +7271,9 @@
       "state": "LOUISIANA (LA)",
       "branch": "LAFAYETTE",
       "city": "SCOTT",
-      "source": "COPART",
-      "lat": 30.2358,
-      "lng": -92.0946,
+      "source": "IAAI",
+      "lat": 30.25517346985207,
+      "lng": -92.10900887116442,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7298,8 +7291,8 @@
       "branch": "NEW ORLEANS",
       "city": "NEW ORLEANS",
       "source": "COPART",
-      "lat": 29.9511,
-      "lng": -90.0715,
+      "lat": 30.032925630176557,
+      "lng": -89.90966735767117,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7316,9 +7309,9 @@
       "state": "LOUISIANA (LA)",
       "branch": "NEW ORLEANS EAST",
       "city": "NEW ORLEANS",
-      "source": "COPART",
-      "lat": 30.01,
-      "lng": -89.95,
+      "source": "IAAI",
+      "lat": 30.00376137328056,
+      "lng": -90.01096122883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7336,8 +7329,8 @@
       "branch": "BATON ROUGE",
       "city": "GREENWELL SPRINGS",
       "source": "COPART",
-      "lat": 30.5519,
-      "lng": -90.9815,
+      "lat": 30.56027796145645,
+      "lng": -90.988226,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7354,9 +7347,9 @@
       "state": "LOUISIANA (LA)",
       "branch": "BATON ROUGE",
       "city": "CARVILLE",
-      "source": "COPART",
-      "lat": 30.2238,
-      "lng": -91.0987,
+      "source": "IAAI",
+      "lat": 30.220944982763022,
+      "lng": -91.09137325767115,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7374,8 +7367,8 @@
       "branch": "SHREVEPORT",
       "city": "SHREVEPORT",
       "source": "COPART",
-      "lat": 32.5252,
-      "lng": -93.7502,
+      "lat": 32.46525104789762,
+      "lng": -93.83662997116441,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7393,8 +7386,8 @@
       "branch": "COLUMBIA",
       "city": "COLUMBIA",
       "source": "COPART",
-      "lat": 38.9517,
-      "lng": -92.3341,
+      "lat": 38.950205031213216,
+      "lng": -92.2080383,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7412,8 +7405,8 @@
       "branch": "ST. LOUIS",
       "city": "BRIDGETON",
       "source": "COPART",
-      "lat": 38.767,
-      "lng": -90.4115,
+      "lat": 38.779626363779585,
+      "lng": -90.42245802883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7430,9 +7423,9 @@
       "state": "MISSOURI (MO)",
       "branch": "KANSAS CITY EAST",
       "city": "ODESSA",
-      "source": "COPART",
-      "lat": 38.9992,
-      "lng": -94.1452,
+      "source": "IAAI",
+      "lat": 39.00820621071739,
+      "lng": -93.9860229,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7450,8 +7443,8 @@
       "branch": "SPRINGFIELD",
       "city": "ROGERSVILLE",
       "source": "COPART",
-      "lat": 37.117,
-      "lng": -93.0555,
+      "lat": 37.11975470983233,
+      "lng": -93.0133101,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7469,8 +7462,8 @@
       "branch": "SIKESTON",
       "city": "SIKESTON",
       "source": "COPART",
-      "lat": 36.8767,
-      "lng": -89.5879,
+      "lat": 36.93812862780057,
+      "lng": -89.5305954,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7487,9 +7480,9 @@
       "state": "NEW MEXICO (NM)",
       "branch": "ALBUQUERQUE",
       "city": "ALBUQUERQUE",
-      "source": "COPART",
-      "lat": 35.0844,
-      "lng": -106.6504,
+      "source": "IAAI",
+      "lat": 35.01436040905936,
+      "lng": -106.64782950184907,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7498,17 +7491,25 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3420
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2320,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4220
         }
       ]
     },
     {
       "id": 362,
       "state": "OKLAHOMA (OK)",
-      "branch": "OKLAHOMA",
+      "branch": "TULSA",
       "city": "TULSA",
-      "source": "COPART",
-      "lat": 36.154,
-      "lng": -95.9928,
+      "source": "IAAI",
+      "lat": 36.097837692916116,
+      "lng": -96.05148504232885,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7525,9 +7526,9 @@
       "state": "OKLAHOMA (OK)",
       "branch": "OKLAHOMA CITY",
       "city": "OKLAHOMA CITY",
-      "source": "COPART",
-      "lat": 35.4676,
-      "lng": -97.5164,
+      "source": "IAAI",
+      "lat": 35.545845665752395,
+      "lng": -97.45647254972515,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7545,8 +7546,8 @@
       "branch": "TULSA",
       "city": "TULSA",
       "source": "COPART",
-      "lat": 36.154,
-      "lng": -95.9928,
+      "lat": 36.1325777607883,
+      "lng": -96.01981782883557,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7564,8 +7565,8 @@
       "branch": "AMARILLO",
       "city": "AMARILLO",
       "source": "COPART",
-      "lat": 35.222,
-      "lng": -101.8313,
+      "lat": 35.17215512012499,
+      "lng": -101.73992670000001,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7582,9 +7583,9 @@
       "state": "TEXAS (TX)",
       "branch": "HOUSTON NORTH",
       "city": "HOUSTON NORTH",
-      "source": "COPART",
-      "lat": 29.9002,
-      "lng": -95.5008,
+      "source": "IAAI",
+      "lat": 29.957674177034338,
+      "lng": -95.38483468650674,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7600,10 +7601,10 @@
       "id": 367,
       "state": "TEXAS (TX)",
       "branch": "HOUSTON",
-      "city": "HOUSTON SOUTH",
-      "source": "COPART",
-      "lat": 29.65,
-      "lng": -95.25,
+      "city": "HOUSTON",
+      "source": "IAAI",
+      "lat": 29.897226311622475,
+      "lng": -95.45015372883557,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7620,9 +7621,9 @@
       "state": "TEXAS (TX)",
       "branch": "LUBBOCK",
       "city": "LUBBOCK",
-      "source": "COPART",
-      "lat": 33.5779,
-      "lng": -101.8552,
+      "source": "IAAI",
+      "lat": 33.64954604105687,
+      "lng": -101.90575359999998,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7639,9 +7640,9 @@
       "state": "TEXAS (TX)",
       "branch": "LONGVIEW",
       "city": "LONGVIEW",
-      "source": "COPART",
-      "lat": 32.5007,
-      "lng": -94.7405,
+      "source": "IAAI",
+      "lat": 32.5056609402053,
+      "lng": -94.64337002883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7659,8 +7660,8 @@
       "branch": "WACO",
       "city": "TEMPLE",
       "source": "COPART",
-      "lat": 31.0982,
-      "lng": -97.3428,
+      "lat": 31.16313260319643,
+      "lng": -97.31757772883557,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7678,8 +7679,8 @@
       "branch": "SAN ANTONIO",
       "city": "SAN ANTONIO",
       "source": "COPART",
-      "lat": 29.4241,
-      "lng": -98.4936,
+      "lat": 29.307952577779616,
+      "lng": -98.5480100177904,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7697,8 +7698,8 @@
       "branch": "DALLAS SOUTH",
       "city": "DALLAS SOUTH",
       "source": "COPART",
-      "lat": 32.7767,
-      "lng": -96.797,
+      "lat": 32.59949483858489,
+      "lng": -96.66428212883558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7734,9 +7735,9 @@
       "state": "TEXAS (TX)",
       "branch": "DALLAS SOUTH",
       "city": "WILMER",
-      "source": "COPART",
-      "lat": 32.5896,
-      "lng": -96.6853,
+      "source": "IAAI",
+      "lat": 32.578401322139676,
+      "lng": -96.6696896,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7754,8 +7755,8 @@
       "branch": "MCALLEN",
       "city": "MERCEDES",
       "source": "COPART",
-      "lat": 26.1498,
-      "lng": -97.9136,
+      "lat": 26.16161487029136,
+      "lng": -97.89534582883557,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7773,8 +7774,8 @@
       "branch": "JACKSON",
       "city": "FLORENCE",
       "source": "COPART",
-      "lat": 32.1535,
-      "lng": -90.1318,
+      "lat": 32.18545150060621,
+      "lng": -90.1322649,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7792,8 +7793,8 @@
       "branch": "FT. WORTH",
       "city": "HASLET",
       "source": "COPART",
-      "lat": 32.9557,
-      "lng": -97.3475,
+      "lat": 32.94555619649319,
+      "lng": -97.37961879999999,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7808,11 +7809,11 @@
     {
       "id": 378,
       "state": "TEXAS (TX)",
-      "branch": "SAN ANTONIO SOUTH",
+      "branch": "San Antonio-South",
       "city": "SAN ANTONIO SOUTH",
-      "source": "COPART",
-      "lat": 29.4241,
-      "lng": -98.4936,
+      "source": "IAAI",
+      "lat": 29.305953390218246,
+      "lng": -98.5378344,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7829,9 +7830,9 @@
       "state": "TEXAS (TX)",
       "branch": "SAN ANTONIO",
       "city": "SAN ANTONIO",
-      "source": "COPART",
-      "lat": 29.4241,
-      "lng": -98.4936,
+      "source": "IAAI",
+      "lat": 29.30589257787373,
+      "lng": -98.53783171778754,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7867,9 +7868,9 @@
       "state": "TEXAS (TX)",
       "branch": "MCALLEN",
       "city": "DONNA",
-      "source": "COPART",
-      "lat": 26.1703,
-      "lng": -98.0519,
+      "source": "IAAI",
+      "lat": 26.186259034592695,
+      "lng": -98.06454745889889,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7887,8 +7888,8 @@
       "branch": "NORTH AUSTIN",
       "city": "TAYLOR",
       "source": "COPART",
-      "lat": 30.5708,
-      "lng": -97.4094,
+      "lat": 30.582383072879217,
+      "lng": -97.34516047301346,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7906,8 +7907,8 @@
       "branch": "ABILENE",
       "city": "HAWLEY",
       "source": "COPART",
-      "lat": 32.6101,
-      "lng": -99.8115,
+      "lat": 32.5383276132735,
+      "lng": -99.76794368650673,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7924,9 +7925,9 @@
       "state": "TEXAS (TX)",
       "branch": "EL PASO",
       "city": "EL PASO",
-      "source": "COPART",
-      "lat": 31.7619,
-      "lng": -106.485,
+      "source": "IAAI",
+      "lat": 31.82738262108682,
+      "lng": -106.16513819999797,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7943,9 +7944,9 @@
       "state": "TEXAS (TX)",
       "branch": "PERMIAN BASIN",
       "city": "ODESSA",
-      "source": "COPART",
-      "lat": 31.8457,
-      "lng": -102.3676,
+      "source": "IAAI",
+      "lat": 31.9224293642652,
+      "lng": -102.41121726012136,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7963,8 +7964,8 @@
       "branch": "HOUSTON EAST",
       "city": "HOUSTON",
       "source": "COPART",
-      "lat": 29.7604,
-      "lng": -95.3698,
+      "lat": 29.85530268015775,
+      "lng": -95.15656751534235,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -7982,8 +7983,8 @@
       "branch": "ANDREWS",
       "city": "ANDREWS",
       "source": "COPART",
-      "lat": 32.3187,
-      "lng": -102.5457,
+      "lat": 32.309648973991266,
+      "lng": -102.60925881349326,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -8000,9 +8001,9 @@
       "state": "TEXAS (TX)",
       "branch": "FORT WORTH NORTH",
       "city": "JUSTIN",
-      "source": "COPART",
-      "lat": 33.0848,
-      "lng": -97.2961,
+      "source": "IAAI",
+      "lat": 33.054609546720215,
+      "lng": -97.2693558,
       "ports": [
         {
           "name": "TEXAS, USA",
@@ -8133,7 +8134,7 @@
       "state": "ILLINOIS (IL)",
       "branch": "WESTCHESTER",
       "city": "WESTCHESTER",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 41.8506,
       "lng": -87.9,
       "ports": [
@@ -8152,7 +8153,7 @@
       "state": "ILLINOIS (IL)",
       "branch": "MATTESON",
       "city": "MATTESON",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 41.5039,
       "lng": -87.7378,
       "ports": [
@@ -8171,7 +8172,7 @@
       "state": "ILLINOIS (IL)",
       "branch": "CHICAGO",
       "city": "CHICAGO",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 41.8781,
       "lng": -87.6298,
       "ports": [
@@ -8186,70 +8187,13 @@
       ]
     },
     {
-      "id": 404,
-      "state": "ILLINOIS (IL)",
-      "branch": "LINCOLN",
-      "city": "LINCOLN",
-      "source": "COPART",
-      "lat": 40.1484,
-      "lng": -89.364,
-      "ports": [
-        {
-          "name": "MARYLAND, USA",
-          "ship": 1583,
-          "lat": 39.0458,
-          "lng": -76.6413,
-          "herat": 1900,
-          "total": 3483
-        }
-      ]
-    },
-    {
-      "id": 405,
-      "state": "INDIANA (IN)",
-      "branch": "INDIANAPOLIS SOUTH",
-      "city": "INDIANAPOLIS SOUTH",
-      "source": "COPART",
-      "lat": 39.6667,
-      "lng": -86.1581,
-      "ports": [
-        {
-          "name": "MARYLAND, USA",
-          "ship": 1558,
-          "lat": 39.0458,
-          "lng": -76.6413,
-          "herat": 1900,
-          "total": 3458
-        }
-      ]
-    },
-    {
-      "id": 406,
-      "state": "INDIANA (IN)",
-      "branch": "INDIANAPOLIS SOUTH",
-      "city": "CROTHERSVILLE",
-      "source": "COPART",
-      "lat": 38.8117,
-      "lng": -85.8425,
-      "ports": [
-        {
-          "name": "MARYLAND, USA",
-          "ship": 1658,
-          "lat": 39.0458,
-          "lng": -76.6413,
-          "herat": 1900,
-          "total": 3558
-        }
-      ]
-    },
-    {
       "id": 407,
       "state": "INDIANA (IN)",
       "branch": "FORT WAYNE",
       "city": "FORT WAYNE",
       "source": "COPART",
-      "lat": 41.0793,
-      "lng": -85.1394,
+      "lat": 41.07331286443088,
+      "lng": -85.09368330979508,
       "ports": [
         {
           "name": "MARYLAND, USA",
@@ -8258,25 +8202,14 @@
           "lng": -76.6413,
           "herat": 1900,
           "total": 3458
-        }
-      ]
-    },
-    {
-      "id": 408,
-      "state": "INDIANA (IN)",
-      "branch": "SOUTH BEND",
-      "city": "SOUTH BEND",
-      "source": "COPART",
-      "lat": 41.6764,
-      "lng": -86.252,
-      "ports": [
+        },
         {
-          "name": "MARYLAND, USA",
-          "ship": 1558,
-          "lat": 39.0458,
-          "lng": -76.6413,
+          "name": "NEW JERSEY, USA",
+          "ship": 1440,
+          "lat": 40.7357,
+          "lng": -74.1724,
           "herat": 1900,
-          "total": 3458
+          "total": 3340
         }
       ]
     },
@@ -8285,7 +8218,7 @@
       "state": "INDIANA (IN)",
       "branch": "HAMMOND",
       "city": "HAMMOND",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 41.5834,
       "lng": -87.5,
       "ports": [
@@ -8897,9 +8830,9 @@
       "state": "OHIO (OH)",
       "branch": "COLUMBUS",
       "city": "COLUMBUS",
-      "source": "COPART",
-      "lat": 39.88804168348866,
-      "lng": -83.03500951349325,
+      "source": "IAAI",
+      "lat": 39.88802521903637,
+      "lng": -83.03499878465767,
       "ports": [
         {
           "name": "MARYLAND, USA",
@@ -8970,7 +8903,7 @@
       "state": "OHIO (OH)",
       "branch": "AMELIA",
       "city": "AMELIA",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 39.0284,
       "lng": -84.2177,
       "ports": [
@@ -9513,6 +9446,139 @@
           "lng": -81.0884,
           "herat": 1900,
           "total": 3100
+        }
+      ]
+    },
+    {
+      "id": 519,
+      "state": "TEXAS (TX)",
+      "branch": "EL PASO",
+      "city": "Anthony",
+      "source": "COPART",
+      "lat": 31.97463900979684,
+      "lng": -106.587504,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1335,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3235
+        }
+      ]
+    },
+    {
+      "id": 520,
+      "state": "KANSAS (KS)",
+      "branch": "KANSAS CITY",
+      "city": "KANSAS CITY",
+      "source": "IAAI",
+      "lat": 39.1142,
+      "lng": -94.6275,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1495,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3395
+        }
+      ]
+    },
+    {
+      "id": 521,
+      "state": "LOUISIANA (LA)",
+      "branch": "SHREVEPORT",
+      "city": "SHREVEPORT",
+      "source": "IAAI",
+      "lat": 32.4474186461056,
+      "lng": -93.97496567911041,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1265,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3165
+        }
+      ]
+    },
+    {
+      "id": 522,
+      "state": "OKLAHOMA (OK)",
+      "branch": "OKLAHOMA CITY",
+      "city": "OKLAHOMA CITY",
+      "source": "COPART",
+      "lat": 35.4676,
+      "lng": -97.5164,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1325,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3225
+        }
+      ]
+    },
+    {
+      "id": 523,
+      "state": "TEXAS (TX)",
+      "branch": "AMARILLO",
+      "city": "AMARILLO",
+      "source": "IAAI",
+      "lat": 35.09656543449569,
+      "lng": -101.84890348650673,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1345,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 3245
+        }
+      ]
+    },
+    {
+      "id": 524,
+      "state": "TEXAS (TX)",
+      "branch": "HOUSTON",
+      "city": "HOUSTON",
+      "source": "COPART",
+      "lat": 29.968709471874092,
+      "lng": -95.37360072883557,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1095,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 2995
+        }
+      ]
+    },
+    {
+      "id": 525,
+      "state": "TEXAS (TX)",
+      "branch": "HOUSTON SOUTH",
+      "city": "HOUSTON",
+      "source": "IAAI",
+      "lat": 29.35219715150136,
+      "lng": -95.42031832513744,
+      "ports": [
+        {
+          "name": "TEXAS, USA",
+          "ship": 1095,
+          "lat": 29.7604,
+          "lng": -95.3698,
+          "herat": 1900,
+          "total": 2995
         }
       ]
     }
