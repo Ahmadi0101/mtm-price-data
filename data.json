@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "price_usd": 64.3,
 
   "vehicles": [
@@ -3323,8 +3323,8 @@
       "branch": "ST. CLOUD",
       "city": "AVON",
       "source": "COPART",
-      "lat": 45.6049570236477,
-      "lng": 94.43671107116386,
+      "lat": 45.60493450591344,
+      "lng": -94.43673252883615,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
