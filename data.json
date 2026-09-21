@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "price_usd": 64.5,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
@@ -3197,8 +3197,8 @@
       "branch": "ST. CLOUD",
       "city": "AVON",
       "source": "COPART",
-      "lat": 45.6049570236477,
-      "lng": 94.43671107116386,
+      "lat": 45.60494201182585,
+      "lng": -94.43673252883615,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
