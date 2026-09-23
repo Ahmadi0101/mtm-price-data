@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "price_usd": 64,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
@@ -8564,9 +8564,9 @@
       "state": "OHIO (OH)",
       "branch": "COLUMBUS",
       "city": "GROVE CITY",
-      "source": "OTHER",
-      "lat": 39.87895869986049,
-      "lng": -83.02904079999998,
+      "source": "IAAI",
+      "lat": 39.888008754580106,
+      "lng": -83.03499878465541,
       "ports": [
         {
           "name": "MARYLAND, USA",
