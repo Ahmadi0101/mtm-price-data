@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "price_usd": 64,
+  "version": 16,
+    "price_usd": 64,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
     { "id": 2, "name": "TOYOTA COROLLA", "year": 2006, "price_afn": 113207 },
@@ -2758,25 +2758,6 @@
       "source": "IAAI",
       "lat": 39.3834,
       "lng": -76.4394,
-      "ports": [
-        {
-          "name": "NEW JERSEY, USA",
-          "ship": 1180,
-          "lat": 40.7357,
-          "lng": -74.1724,
-          "herat": 1900,
-          "total": 3080
-        }
-      ]
-    },
-    {
-      "id": 134,
-      "state": "MARYLAND (MD)",
-      "branch": "BALTIMORE",
-      "city": "BALTIMORE",
-      "source": "IAAI",
-      "lat": 39.2904,
-      "lng": -76.6122,
       "ports": [
         {
           "name": "NEW JERSEY, USA",
@@ -8291,6 +8272,14 @@
           "lng": -76.6413,
           "herat": 1900,
           "total": 3143
+        },
+        {
+          "name": "NEW JERSEY, USA",
+          "ship": 1180,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "herat": 1900,
+          "total": 3080
         }
       ]
     },
