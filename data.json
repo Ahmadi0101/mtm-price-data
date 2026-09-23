@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "price_usd": 64,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
@@ -8568,6 +8568,15 @@
       "lat": 39.888008754580106,
       "lng": -83.03499878465541,
       "ports": [
+        
+        {
+          "name": "NEW JERSEY, USA",
+          "ship": 1405,
+          "lat": 40.7357,
+          "lng": -74.1724,
+          "herat": 1900,
+          "total": 3305
+        },
         {
           "name": "MARYLAND, USA",
           "ship": 1458,
