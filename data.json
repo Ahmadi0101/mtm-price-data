@@ -1,6 +1,6 @@
 {
-  "version": 21,
-    "price_usd": 64.2,
+  "version": 22,
+  "price_usd": 64.3,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
     { "id": 2, "name": "TOYOTA COROLLA", "year": 2006, "price_afn": 113207 },
@@ -5125,7 +5125,7 @@
       "state": "CALIFORNIA (CA)",
       "branch": "SANTA CLARITA",
       "city": "SANTA CLARITA",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 34.3917,
       "lng": -118.5426,
       "ports": [
@@ -5145,8 +5145,8 @@
       "branch": "SUN VALLEY",
       "city": "SUN VALLEY",
       "source": "COPART",
-      "lat": 34.1936,
-      "lng": -118.3551,
+      "lat": 34.223343144241355,
+      "lng": -118.38012526931536,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -5163,9 +5163,9 @@
       "state": "CALIFORNIA (CA)",
       "branch": "EAST BAY",
       "city": "BAY POINT",
-      "source": "COPART",
-      "lat": 38.0291,
-      "lng": -121.9614,
+      "source": "IAAI",
+      "lat": 38.03218779422379,
+      "lng": -121.9465300809595,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -5182,7 +5182,7 @@
       "state": "CALIFORNIA (CA)",
       "branch": "MIRALOMA",
       "city": "MIRALOMA",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 34.1208,
       "lng": -117.9412,
       "ports": [
@@ -5202,8 +5202,8 @@
       "branch": "SAN BERNARDINO",
       "city": "COLTON",
       "source": "COPART",
-      "lat": 34.0739,
-      "lng": -117.3137,
+      "lat": 34.04969761059967,
+      "lng": -117.33173985767115,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -5220,7 +5220,7 @@
       "state": "CALIFORNIA (CA)",
       "branch": "BURBANK",
       "city": "BURBANK",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 34.1808,
       "lng": -118.309,
       "ports": [
@@ -5239,9 +5239,9 @@
       "state": "CALIFORNIA (CA)",
       "branch": "NORTH HOLLYWOOD",
       "city": "HOLLYWOOD",
-      "source": "COPART",
-      "lat": 34.1522,
-      "lng": -118.3428,
+      "source": "IAAI",
+      "lat": 34.203075419868235,
+      "lng": -118.39766096931534,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6002,25 +6002,6 @@
       "source": "COPART",
       "lat": 39.7392,
       "lng": -104.9903,
-      "ports": [
-        {
-          "name": "CALIFORNIA, USA",
-          "ship": 2335,
-          "lat": 33.7701,
-          "lng": -118.1937,
-          "herat": 1900,
-          "total": 4235
-        }
-      ]
-    },
-    {
-      "id": 295,
-      "state": "COLORADO (CO)",
-      "branch": "DENVER SOUTH",
-      "city": "COMMERCE CITY",
-      "source": "COPART",
-      "lat": 39.8083,
-      "lng": -104.9339,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6935,6 +6916,14 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3470
+        },
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2335,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4235
         }
       ]
     },
@@ -9530,25 +9519,6 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3165
-        }
-      ]
-    },
-    {
-      "id": 543,
-      "state": "LOUISIANA (LA)",
-      "branch": "VINTON",
-      "city": "Shreveport",
-      "source": "IAAI",
-      "lat": 32.46530536049834,
-      "lng": -93.836651428835,
-      "ports": [
-        {
-          "name": "TEXAS, USA",
-          "ship": 1365,
-          "lat": 29.7604,
-          "lng": -95.3698,
-          "herat": 1900,
-          "total": 3265
         }
       ]
     },
