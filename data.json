@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "price_usd": 64.3,
+  "version": 23,
+   "price_usd": 64.3,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
     { "id": 2, "name": "TOYOTA COROLLA", "year": 2006, "price_afn": 113207 },
@@ -6016,11 +6016,11 @@
     {
       "id": 298,
       "state": "MONTANA (MT)",
-      "branch": "BILLING",
-      "city": "BILLING",
+      "branch": "BILLINGS",
+      "city": "BILLINGS",
       "source": "COPART",
-      "lat": 45.7833,
-      "lng": -108.5007,
+      "lat": 45.80296975874456,
+      "lng": -108.45853572883614,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6037,9 +6037,9 @@
       "state": "MONTANA (MT)",
       "branch": "MISSOULA",
       "city": "MISSOULA",
-      "source": "COPART",
-      "lat": 46.8721,
-      "lng": -113.994,
+      "source": "IAAI",
+      "lat": 46.94080905030332,
+      "lng": -114.13820272883612,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6057,8 +6057,8 @@
       "branch": "HELENA",
       "city": "HELENA",
       "source": "COPART",
-      "lat": 46.5891,
-      "lng": -112.0391,
+      "lat": 46.5980796,
+      "lng": -111.97266514232771,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6075,9 +6075,9 @@
       "state": "NEVADA (NV)",
       "branch": "LAS VEGAS",
       "city": "LAS VEGAS",
-      "source": "COPART",
-      "lat": 36.1699,
-      "lng": -115.1398,
+      "source": "IAAI",
+      "lat": 36.055204052540944,
+      "lng": -115.0012182,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6095,8 +6095,8 @@
       "branch": "LAS VEGAS WEST",
       "city": "LAS VEGAS WEST",
       "source": "COPART",
-      "lat": 36.1699,
-      "lng": -115.1398,
+      "lat": 36.22270194476711,
+      "lng": -115.17116150000001,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6114,8 +6114,8 @@
       "branch": "NEVADA",
       "city": "LAS VEGAS",
       "source": "COPART",
-      "lat": 36.1699,
-      "lng": -115.1398,
+      "lat": 36.24809810484665,
+      "lng": -115.07906980000004,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6132,7 +6132,7 @@
       "state": "NEVADA (NV)",
       "branch": "LAS VEGAS NORTH",
       "city": "LAS VEGAS",
-      "source": "COPART",
+      "source": "OTHER",
       "lat": 36.1699,
       "lng": -115.1398,
       "ports": [
@@ -6170,9 +6170,9 @@
       "state": "NEVADA (NV)",
       "branch": "LAS VEGAS",
       "city": "HENDERSON",
-      "source": "COPART",
-      "lat": 36.0395,
-      "lng": -114.9817,
+      "source": "OTHER",
+      "lat": 36.28747129612379,
+      "lng": -115.02169015767227,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6255,8 +6255,8 @@
       "branch": "WOOD VILLAGE",
       "city": "WOOD VILLAGE",
       "source": "COPART",
-      "lat": 45.5343,
-      "lng": -122.4187,
+      "lat": 45.57398844021755,
+      "lng": -122.5921973,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6274,8 +6274,8 @@
       "branch": "PORTLAND SOUTH",
       "city": "PORTLAND SOUTH",
       "source": "COPART",
-      "lat": 45.4354,
-      "lng": -122.5659,
+      "lat": 45.158318,
+      "lng": -122.82894227116384,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6293,8 +6293,8 @@
       "branch": "PORTLAND NORTH",
       "city": "PORTLAND NORTH",
       "source": "COPART",
-      "lat": 45.5907,
-      "lng": -122.5931,
+      "lat": 45.57397342011079,
+      "lng": -122.5921973,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -6312,8 +6312,8 @@
       "branch": "EUGENE",
       "city": "EUGENE",
       "source": "COPART",
-      "lat": 44.0521,
-      "lng": -123.0868,
+      "lat": 44.11749200476082,
+      "lng": -123.17360878650845,
       "ports": [
         {
           "name": "CALIFORNIA, USA",
@@ -9595,6 +9595,44 @@
           "lng": -95.3698,
           "herat": 1900,
           "total": 3225
+        }
+      ]
+    },
+    {
+      "id": 548,
+      "state": "OREGON (OR)",
+      "branch": "EUGENE",
+      "city": "EUGENE",
+      "source": "IAAI",
+      "lat": 44.07177797506381,
+      "lng": -123.13880150000001,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2415,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4315
+        }
+      ]
+    },
+    {
+      "id": 549,
+      "state": "OREGON (OR)",
+      "branch": "PORTLAND SOUTH",
+      "city": "PORTLAND SOUTH",
+      "source": "IAAI",
+      "lat": 45.555285312553615,
+      "lng": -122.50196585767229,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2420,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4320
         }
       ]
     }
