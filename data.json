@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
    "price_usd": 64.3,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
