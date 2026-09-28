@@ -1,6 +1,6 @@
 {
-  "version": 27,
-   "price_usd": 64.2,
+  "version": 28,
+   "price_usd": 64.3,
   "vehicles": [
     { "id": 1, "name": "TOYOTA COROLLA", "year": 2005, "price_afn": 104593 },
     { "id": 2, "name": "TOYOTA COROLLA", "year": 2006, "price_afn": 113207 },
@@ -9709,6 +9709,86 @@
           "lng": -118.1937,
           "herat": 1900,
           "total": 4155
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "state": "HAWAII (HI)",
+      "branch": "HONOLULU",
+      "city": "KAPOLEI",
+      "source": "COPART",
+      "lat": 21.317251399676405,
+      "lng": -158.11527657787636,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2255,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4155,
+          "avill": "false"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "state": "HAWAII (HI)",
+      "branch": "HONOLULU",
+      "city": "KAPOLEI",
+      "source": "IAAI",
+      "lat": 21.313216757960166,
+      "lng": -158.10785855976496,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2255,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4155,
+          "avill": "false"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "state": "ALASKA (AK)",
+      "branch": "Anchorage",
+      "city": "Wasilla",
+      "source": "IAAI",
+      "lat": 61.59079700184681,
+      "lng": -149.4878440915997,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2255,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4155,
+          "avill": "false"
+        }
+      ]
+    },
+    {
+      "id": 558,
+      "state": "ALASKA (AK)",
+      "branch": "Anchorage",
+      "city": "ANcchHORAGE",
+      "source": "COPART",
+      "lat": 61.21932735841116,
+      "lng": -149.83144822883614,
+      "ports": [
+        {
+          "name": "CALIFORNIA, USA",
+          "ship": 2255,
+          "lat": 33.7701,
+          "lng": -118.1937,
+          "herat": 1900,
+          "total": 4155,
+          "avill": "false"
         }
       ]
     },
